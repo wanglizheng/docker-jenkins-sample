@@ -1,4 +1,4 @@
-FROM ruby:2.3.1
+FROM daocloud.io/library/ruby:2.3.1
 MAINTAINER wlz "lizhengshangyou@hotmail.com"
 ENV REFRESHED_AT 2017-06-06
 RUN apt-get updat
